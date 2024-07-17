@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniella 
 - 👀 I’m interested in automotive, gaming, and software engineering. 
-- 🌱 I’m currently learning multiple programming languages to start my career in Technology/Software Engineering.
+- 🌱 I’m currently learning to start my career in Technology/Software Engineering.
 - 📫 You can reach me on
    LinkedIn: https://www.linkedin.com/in/daniellascottyoung/
    Email: dscottyoung2022@gmail.com 
